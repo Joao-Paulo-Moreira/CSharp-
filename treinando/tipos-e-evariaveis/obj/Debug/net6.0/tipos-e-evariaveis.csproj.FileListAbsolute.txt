@@ -1,0 +1,15 @@
+C:\Users\Pichau\Desktop\Estudos\C#\treinando\tipos-e-evariaveis\bin\Debug\net6.0\tipos-e-evariaveis.exe
+C:\Users\Pichau\Desktop\Estudos\C#\treinando\tipos-e-evariaveis\bin\Debug\net6.0\tipos-e-evariaveis.deps.json
+C:\Users\Pichau\Desktop\Estudos\C#\treinando\tipos-e-evariaveis\bin\Debug\net6.0\tipos-e-evariaveis.runtimeconfig.json
+C:\Users\Pichau\Desktop\Estudos\C#\treinando\tipos-e-evariaveis\bin\Debug\net6.0\tipos-e-evariaveis.dll
+C:\Users\Pichau\Desktop\Estudos\C#\treinando\tipos-e-evariaveis\bin\Debug\net6.0\tipos-e-evariaveis.pdb
+C:\Users\Pichau\Desktop\Estudos\C#\treinando\tipos-e-evariaveis\obj\Debug\net6.0\tipos-e-evariaveis.csproj.AssemblyReference.cache
+C:\Users\Pichau\Desktop\Estudos\C#\treinando\tipos-e-evariaveis\obj\Debug\net6.0\tipos-e-evariaveis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Desktop\Estudos\C#\treinando\tipos-e-evariaveis\obj\Debug\net6.0\tipos-e-evariaveis.AssemblyInfoInputs.cache
+C:\Users\Pichau\Desktop\Estudos\C#\treinando\tipos-e-evariaveis\obj\Debug\net6.0\tipos-e-evariaveis.AssemblyInfo.cs
+C:\Users\Pichau\Desktop\Estudos\C#\treinando\tipos-e-evariaveis\obj\Debug\net6.0\tipos-e-evariaveis.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Desktop\Estudos\C#\treinando\tipos-e-evariaveis\obj\Debug\net6.0\tipos-e-evariaveis.dll
+C:\Users\Pichau\Desktop\Estudos\C#\treinando\tipos-e-evariaveis\obj\Debug\net6.0\refint\tipos-e-evariaveis.dll
+C:\Users\Pichau\Desktop\Estudos\C#\treinando\tipos-e-evariaveis\obj\Debug\net6.0\tipos-e-evariaveis.pdb
+C:\Users\Pichau\Desktop\Estudos\C#\treinando\tipos-e-evariaveis\obj\Debug\net6.0\tipos-e-evariaveis.genruntimeconfig.cache
+C:\Users\Pichau\Desktop\Estudos\C#\treinando\tipos-e-evariaveis\obj\Debug\net6.0\ref\tipos-e-evariaveis.dll
