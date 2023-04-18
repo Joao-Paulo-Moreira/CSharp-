@@ -1,0 +1,15 @@
+C:\Users\Pichau\Desktop\Estudos\C#\treinando\lacos-interativos\lacos-condicionais\lacos-condicionais\obj\Debug\net6.0\lacos-condicionais.csproj.AssemblyReference.cache
+C:\Users\Pichau\Desktop\Estudos\C#\treinando\lacos-interativos\lacos-condicionais\lacos-condicionais\obj\Debug\net6.0\lacos-condicionais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Desktop\Estudos\C#\treinando\lacos-interativos\lacos-condicionais\lacos-condicionais\obj\Debug\net6.0\lacos-condicionais.AssemblyInfoInputs.cache
+C:\Users\Pichau\Desktop\Estudos\C#\treinando\lacos-interativos\lacos-condicionais\lacos-condicionais\obj\Debug\net6.0\lacos-condicionais.AssemblyInfo.cs
+C:\Users\Pichau\Desktop\Estudos\C#\treinando\lacos-interativos\lacos-condicionais\lacos-condicionais\obj\Debug\net6.0\lacos-condicionais.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Desktop\Estudos\C#\treinando\lacos-interativos\lacos-condicionais\lacos-condicionais\bin\Debug\net6.0\lacos-condicionais.exe
+C:\Users\Pichau\Desktop\Estudos\C#\treinando\lacos-interativos\lacos-condicionais\lacos-condicionais\bin\Debug\net6.0\lacos-condicionais.deps.json
+C:\Users\Pichau\Desktop\Estudos\C#\treinando\lacos-interativos\lacos-condicionais\lacos-condicionais\bin\Debug\net6.0\lacos-condicionais.runtimeconfig.json
+C:\Users\Pichau\Desktop\Estudos\C#\treinando\lacos-interativos\lacos-condicionais\lacos-condicionais\bin\Debug\net6.0\lacos-condicionais.dll
+C:\Users\Pichau\Desktop\Estudos\C#\treinando\lacos-interativos\lacos-condicionais\lacos-condicionais\bin\Debug\net6.0\lacos-condicionais.pdb
+C:\Users\Pichau\Desktop\Estudos\C#\treinando\lacos-interativos\lacos-condicionais\lacos-condicionais\obj\Debug\net6.0\lacos-condicionais.dll
+C:\Users\Pichau\Desktop\Estudos\C#\treinando\lacos-interativos\lacos-condicionais\lacos-condicionais\obj\Debug\net6.0\refint\lacos-condicionais.dll
+C:\Users\Pichau\Desktop\Estudos\C#\treinando\lacos-interativos\lacos-condicionais\lacos-condicionais\obj\Debug\net6.0\lacos-condicionais.pdb
+C:\Users\Pichau\Desktop\Estudos\C#\treinando\lacos-interativos\lacos-condicionais\lacos-condicionais\obj\Debug\net6.0\lacos-condicionais.genruntimeconfig.cache
+C:\Users\Pichau\Desktop\Estudos\C#\treinando\lacos-interativos\lacos-condicionais\lacos-condicionais\obj\Debug\net6.0\ref\lacos-condicionais.dll
